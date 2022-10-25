@@ -10,4 +10,8 @@ I have made most of my notes by hand but the sections that I have recreated usin
 ![grab](https://user-images.githubusercontent.com/83961643/197769844-dcb4b8bf-24c6-4abb-b8cf-b4cb842f6935.jpeg)
 
 
+### [Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
+![pag](https://user-images.githubusercontent.com/83961643/197893365-fc67975a-e203-4470-bb98-6eaf977594a0.jpeg)
+
+
 Last Update: October 2022
