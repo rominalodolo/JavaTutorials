@@ -1,7 +1,7 @@
 # JavaTutorials
 The official Java tutorials but made into fun notes that you can print. NOT FOR SALE. PERSONAL USE ONLY. 
 
-(Reference Materials)[https://docs.oracle.com/javase/tutorial/java/TOC.html]
+[Reference Materials](https://docs.oracle.com/javase/tutorial/java/TOC.html)
 
 ## Learning the Java Language 
 I have made most of my notes by hand but the sections that I have recreated using (Canva)[] are here for download. PDF and PNG versions available for each section listed below. 
