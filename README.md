@@ -14,4 +14,9 @@ I have made most of my notes by hand but the sections that I have recreated usin
 ![pag](https://user-images.githubusercontent.com/83961643/197893365-fc67975a-e203-4470-bb98-6eaf977594a0.jpeg)
 
 
+### [Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html)
+
+
+### []()
+
 Last Update: October 2022
