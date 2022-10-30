@@ -15,8 +15,10 @@ I have made most of my notes by hand but the sections that I have recreated usin
 
 
 ### [Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html)
+![num](https://user-images.githubusercontent.com/83961643/198900970-2cc6de6c-9450-4b30-b3f7-c87a8758d0b2.jpeg)
 
 
-### []()
+
+### [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 
 Last Update: October 2022
