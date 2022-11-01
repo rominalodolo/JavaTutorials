@@ -18,7 +18,9 @@ I have made most of my notes by hand but the sections that I have recreated usin
 ![num](https://user-images.githubusercontent.com/83961643/198900970-2cc6de6c-9450-4b30-b3f7-c87a8758d0b2.jpeg)
 
 
-
 ### [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
+![exc](https://user-images.githubusercontent.com/83961643/198948240-ae4c88d1-49c8-49f5-b566-4820731d4a16.jpeg)
+
+
 
 Last Update: October 2022
