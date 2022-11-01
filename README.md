@@ -22,5 +22,7 @@ I have made most of my notes by hand but the sections that I have recreated usin
 ![exc](https://user-images.githubusercontent.com/83961643/198948240-ae4c88d1-49c8-49f5-b566-4820731d4a16.jpeg)
 
 
+### [Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
+
 
 Last Update: October 2022
