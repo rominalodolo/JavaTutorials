@@ -26,6 +26,7 @@ I have made most of my notes by hand but the sections that I have recreated usin
 
 
 ### [Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
+For more workable example download the javaConcurrentAnimated jar file from [Java Concurrent Animated](https://sourceforge.net/projects/javaconcurrenta/files/latest/download) : Animations that show usage of concurrency features
 
 
 
