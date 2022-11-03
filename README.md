@@ -26,7 +26,9 @@ I have made most of my notes by hand but the sections that I have recreated usin
 
 
 ### [Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
-For more workable example download the javaConcurrentAnimated jar file from [Java Concurrent Animated](https://sourceforge.net/projects/javaconcurrenta/files/latest/download) : Animations that show usage of concurrency features
+For more workable examples download the javaConcurrentAnimated jar file from [Java Concurrent Animated](https://sourceforge.net/projects/javaconcurrenta/files/latest/download) : Animations that show usage of concurrency features
+This application really does help to understnd how the code works because they run through animated examples (as seen in the image below) where you can go though locks, unlocks and breaks - understanding the ins and outs of the code block. 
+![Example](https://user-images.githubusercontent.com/83961643/199762408-ef51c808-1c88-4e81-8c8d-a61b74874458.jpeg)
 
 
 
