@@ -36,4 +36,13 @@ This application really does aid in the understanding of how code works because 
 
 
 
+### [The Platform Environment](https://docs.oracle.com/javase/tutorial/essential/environment/index.html)
+
+
+### [Basic I/O](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
+
+### [Date Time](https://docs.oracle.com/javase/tutorial/datetime/index.html)
+>> [Date-Time Overview](https://github.com/rominalodolo/JavaTutorials/edit/main/README.md)
+>> [Standard Calendar](https://docs.oracle.com/javase/tutorial/datetime/iso/index.html)
+
 Last Update: October 2022
