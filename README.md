@@ -39,6 +39,7 @@ This application really does aid in the understanding of how code works because 
 
 
 ### [The Platform Environment](https://docs.oracle.com/javase/tutorial/essential/environment/index.html)
+![cs](https://user-images.githubusercontent.com/83961643/200024616-fc9ffda0-c521-4209-b44f-fa3b960178ee.jpeg)
 
 
 ### [Basic I/O](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
