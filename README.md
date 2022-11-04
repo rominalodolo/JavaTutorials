@@ -46,4 +46,7 @@ This application really does aid in the understanding of how code works because 
 >> 
 >> [Standard Calendar](https://docs.oracle.com/javase/tutorial/datetime/iso/index.html)
 
+
+### [Interfaces and Inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
+
 Last Update: October 2022
