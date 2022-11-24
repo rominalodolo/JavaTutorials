@@ -23,6 +23,7 @@ I have made most of my notes by hand but the sections that I have recreated usin
 
 
 ### [Generics](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
+![egrf](https://user-images.githubusercontent.com/83961643/203724841-5c2b4553-edd4-4098-bff1-042d7e8494f0.jpeg)
 
 
 ### [Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
